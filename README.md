@@ -9,6 +9,7 @@ Pytorch implementation of Dropblock (NIPS2018)
 ## Results
 
 | Model | Test accuracy |
+| ---- | --- |
 |**Resnet-56**| 71.13% |
 |**Dropblock**| 70.93% |
 
